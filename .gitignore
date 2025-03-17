@@ -1,0 +1,8 @@
+*.avi
+*.pt
+*.ply
+*.pth
+**/__pycache__/
+*.vscode/settings.json
+*.pyc
+*.h5
